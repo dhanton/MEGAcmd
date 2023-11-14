@@ -48,12 +48,12 @@ body:
         2.
         3.
         4.
-  - type: input
+  - type: markdown
     id: expected-behavior
     attributes:
       label: "Expected behavior"
       description: "What did you expect to happen?"
-  - type: input
+  - type: markdown
     id: actual-behavior
     attributes:
       label: "Actual behavior"
