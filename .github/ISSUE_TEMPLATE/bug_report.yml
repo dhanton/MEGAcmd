@@ -48,12 +48,12 @@ body:
         2.
         3.
         4.
-  - type: markdown
+  - type: textarea
     id: expected-behavior
     attributes:
       label: "Expected behavior"
       description: "What did you expect to happen?"
-  - type: markdown
+  - type: textarea
     id: actual-behavior
     attributes:
       label: "Actual behavior"
